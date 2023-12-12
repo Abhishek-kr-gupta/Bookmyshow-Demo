@@ -1,4 +1,4 @@
 # Bookmyshow-Demo
 GitHub Repository for Bookmyshow
 <br>
-Author - Abhishek Kumar Gupta
+Author - Abhishek Gupta (Invendis Technologies)
